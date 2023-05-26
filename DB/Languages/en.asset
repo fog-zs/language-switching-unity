@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e66bbf53fc44a4589b995fb85ad8c6, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  data:
+  - id: Menu
+    text: Menu
+  - id: Cancel
+    text: Cancel
+  - id: Submit
+    text: Submit
+  - id: Dash
+    text: Dash
+  - id: Attack
+    text: Attack
+  - id: Defence
+    text: Defence
+  - id: Move
+    text: Move
+  - id: Jump
+    text: Jump
+  - id: Camera
+    text: Camera
+  - id: AutoRun
+    text: AutoRun
+  - id: Chat
+    text: Chat
+  - id: Get the item
+    text: Get the item
+  - id: Start
+    text: Start
+  - id: Options
+    text: Options
+  - id: Exit
+    text: Exit
